@@ -14,34 +14,29 @@ VALUE='사고'를 '결과물'로 UPDATE하는 개발자 권경민입니다.
 제 사고의 시작을 결과물로 만들어 내는 것에 막힘이 없도록 계속 발전하는 것이 제 궁극적인 목표입니다.
 
 ## SKILL
----
 
 ## Back-end / Database
----
 Php, Laravel, node.js, Mysql
 
 ## Front-end
----
 Javascript, Vue.js, HTML/CSS, template_
 
 ## Etc
----
 aws ec2, R Programing
 
 ## Certificate
----
 정보처리기사
 
 ## Projects
 ---
 ## 2019-2020
----
+
 - [실무] (php)herbvillage 홈페이지 구축
 - [실무] (php)Nobledono 쇼핑몰 개발
-- [토이] (node.js, express.js, vue.js)뷰 노드버드 [깃허브사이트](https://github.com/kwon951214/vue-nodebird)
+- [토이] (node.js, express.js, vue.js)뷰 노드버드 >깃허브사이트(https://github.com/kwon951214/vue-nodebird)
 
 ## 2018-2019
----
+
 - [협업] (php,Mysql)웹크롤링을 통한 데이터 분석 어플리케이션 개발
 - [외주] (php,Mysql)Jsports 홈페이지 구축
 - [캡스톤디자인] (php,Mysql,Javascript)수위센서를 활용한 무선 파고 계측 시스템 개발
