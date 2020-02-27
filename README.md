@@ -32,7 +32,7 @@ aws ec2, R Programing
 
 - [실무] (php)herbvillage 홈페이지 구축
 - [실무] (php)Nobledono 쇼핑몰 개발
-- [토이] (node.js, express.js, vue.js)뷰 노드버드 >깃허브사이트(https://github.com/kwon951214/vue-nodebird)
+- [토이] (node.js, express.js, vue.js)뷰 노드버드 [깃허브사이트](https://github.com/kwon951214/vue-nodebird)
 
 ### 2018-2019
 
